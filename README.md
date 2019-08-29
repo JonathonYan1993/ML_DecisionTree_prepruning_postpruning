@@ -1,0 +1,2 @@
+# ML_DecisionTree_prepruning_postpruning
+本程序实现决策树的建立与可视化，以及决策树的预剪枝与后剪枝，数据集为西瓜书4.2、4.3节中的西瓜数据集
